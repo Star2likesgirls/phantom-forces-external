@@ -37,3 +37,5 @@ An external cheat framework for Phantom Forces on Roblox, featuring ESP (Box, Sk
    python phantom.py
    ```
 3. Press **Shift + F** to toggle the menu.
+
+## dont have python? check the releases for the exe version
